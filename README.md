@@ -1,4 +1,4 @@
 <html>
-    <!-- Check console for output -->
+    <h2>Check console for output</h2>
     <script src="TLVParse.js"></script>
 </html>
