@@ -60,10 +60,10 @@
   // an empty Object-literal if `window` is not defined.
 })("undefined" !== typeof window ? window : {});
 
-
+// *** Demo Code below  
 
 var inputStr =
-"";
+"0015SharmaJiKaLadka";
 var TLVOptions = {
 tagKeySize: 2
 };
